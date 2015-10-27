@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorResearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="accel_dyn">Accelerometer dynamic (m/s^2)</string>
+    <string name="accel_max">Accelerometer max (m/s^2)</string>
+    <string name="gyro_dyn">Gyroscope dynamic (rad/s)</string>
+    <string name="gyro_max">Gyroscope max (rad/s)</string>
+</resources>
